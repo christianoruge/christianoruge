@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Having a university degree in theology, and having worked as a pastor for 14 years, I wanted change and took a MBA. 
+Having a university degree in theology, and having worked as a pastor for 14 years, I wanted change and took an MBA. 
 My masters degree lit my fire for statistics and scientific leadership research, so I kept working on this on my own. 
-But not being a student any more, SPSS got too expensive - so I started coding my own set of statistical resources in Python. 
+But not being a student any more, SPSS got too expensive - so I started coding my own statistical resources in Python. 
 
 The result is a toolkit of commonly used statistical tools.
 Dataset should be in csv og xlsx with only numeric variables. 
