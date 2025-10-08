@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-Having a university degree in theology, and having worked as a pastor for 14 years, I wanted change and took an MBA. 
-My masters degree lit my fire for statistics and scientific leadership research, so I kept working on this on my own. 
-But not being a student any more, SPSS got too expensive - so I started coding my own statistical resources in Python. 
+With a broad background within religious work, I took an MBA in 2017. This lit my fire for quantitative analytics and data science. I immediately started coding in Python, and developed my own tool kit - a toolkit that expanded as new statistical needs approaced. 
 
-CORals Analytics is a toolkit of commonly used statistical tools, with a set of conveniant output formats. 
-NB: Dataset should be in csv og xlsx with only numeric variables. 
+CORals Analytics is now a toolkit of commonly used statistical tools, with a set of conveniant output formats. 
+Examples are straight forward analyses covering distribution, correlation, medieation, moderation and linear regression,
+and also more advanced analyses like latent class analysis(clustering) and a variety of factor analyses.
+Dataset should be in csv, xlsx os sav. 
 
 Please feel free to use CORals Analytics, suggest improvements and contribute to the further development of the code!
 
-My repositories also contain administrative tools and an app for creating tickets with qr-codes and many more will be added in the time ahead, especially within the field of machine learning and artificial intelligence. 
+My repositories also contain things like a visualization tool and a QR-ticket generator. 
+More will be added in the time ahead, especially within the field of machine learning and artificial intelligence. 
 
 - 👯 I’m looking to collaborate on evidence based human resource management
 - 🤔 I’m looking for help with Python
